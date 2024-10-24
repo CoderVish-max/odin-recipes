@@ -1,1 +1,1 @@
-# odin-recipes
+# This is my first project. It is a simple website that contains the recipes of some of my favourite dishes. This website demonstrates my html skills.
